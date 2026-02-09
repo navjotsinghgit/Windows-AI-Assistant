@@ -1,5 +1,5 @@
 # Windows-AI-Assistant
-Developed a Windows-based Voice Assistant that performs system automation and user commands using Speech-to-Text (STT) + Natural Language Processing (NLP).  Created a custom dataset of voice commands/intents (like open apps, search web, system control, greetings, etc.) and mapped each intent to specific actions.
+Developed a Windows-based Voice Assistant that performs system automation and user commands using Speech-to-Text (STT).  Created a custom dataset of voice commands/intents (like open apps, search web, system control, greetings, etc.) and mapped each intent to specific actions.
 Implemented an intent classification algorithm using text preprocessing (tokenization, stopword removal, stemming/lemmatization) to match spoken commands accurately.
 
 Used TF-IDF Vectorizer + Machine Learning classifier (Naive Bayes / SVM / Logistic Regression) for command prediction and smart decision making.
